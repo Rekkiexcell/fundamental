@@ -1,0 +1,2 @@
+# fundamental
+perjalanan belajar 
