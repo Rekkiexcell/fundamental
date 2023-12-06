@@ -1,2 +1,1 @@
-# fundamental
-perjalanan belajar 
+# fundamental javascript
